@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/order-command.iml" filepath="$PROJECT_DIR$/order-command.iml" />
+    </modules>
+  </component>
+</project>
+
